@@ -1,3 +1,5 @@
+// an example test run of sudoku solver algorithm
+
 #include <algorithm>
 #include <cstdio>
 #include <cassert>
