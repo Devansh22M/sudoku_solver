@@ -1,3 +1,5 @@
+// this is a header file for custom implementation of sudoku solver
+
 struct sudoku_solver {
     vector<vector<int>> board;
 
